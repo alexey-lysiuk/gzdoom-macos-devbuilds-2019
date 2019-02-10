@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g3.8pre-387-g0590de3be`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.8pre-387-g0590de3be/gzdoom-g3.8pre-387-g0590de3be.dmg)|`9d7075eb3a7c67b232f010d4574981d79e2d0a5780384c7bc7bc517e9400c454`|
 |[`g3.8pre-206-g78c0b7f23`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.8pre-206-g78c0b7f23/gzdoom-g3.8pre-206-g78c0b7f23.dmg)|`df66c0a10a64b55968173952aeb4f674f55d39280212d4661188d07d8b1c6d0c`|
 |[`g3.8pre-195-g20f29ab80`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.8pre-195-g20f29ab80/gzdoom-g3.8pre-195-g20f29ab80.dmg)|`f4dcd8bf9b61d4853b58ef37039685e66274b50af5cab174bea35ef8e8b2848d`|
 |[`g3.8pre-178-g9bb4ea34e`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.8pre-178-g9bb4ea34e/gzdoom-g3.8pre-178-g9bb4ea34e.dmg)|`4cee3bc6ed25f7b77bcde8bbf7d094f8620d443e7208309636f2946f628391c8`|
