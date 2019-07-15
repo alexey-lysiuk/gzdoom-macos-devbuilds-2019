@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.2pre-250-g8177583e2`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.2pre-250-g8177583e2/gzdoom-g4.2pre-250-g8177583e2.dmg)|`7c6225dfe7af1dd5b5201942d430b2fd122de1fc2291895c07eadf358369ab40`|
 |[`g4.2pre-234-gcd7438c02`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.2pre-234-gcd7438c02/gzdoom-g4.2pre-234-gcd7438c02.dmg)|`e088611a70958b0c5b10cb1dc6da28def1d6e18fd2fda666c3a5fe4dcfa861ad`|
 |[`g4.2pre-219-g8efe18b3b`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.2pre-219-g8efe18b3b/gzdoom-g4.2pre-219-g8efe18b3b.dmg)|`da665d886d2255a472b56080cdbda9f8107ff4f9e2051b7a070b93166bfe982f`|
 |[`g3.8.2_legacy`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.8.2_legacy/gzdoom-g3.8.2_legacy.dmg)|`aa9a2251f423bdcab9bfdc75e7ab6cb2179aff1080369d665f972225e576a8f5`|
